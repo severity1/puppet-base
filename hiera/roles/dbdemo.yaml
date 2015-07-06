@@ -1,0 +1,3 @@
+---
+classes:
+ - 'profile::db_mysql'
