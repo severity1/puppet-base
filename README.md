@@ -18,4 +18,5 @@ A better way to manage changes in puppet.
 
 ## To Dos
 1. Simulate various scenarios.
-2. Often times we use puppet native resource types especially when we want to add a file, add a user etc. Where will it fit? Roles or Profiles? Or both? Or custom modules?
+2. Often times we use puppet native resource types especially when we want to add a file, add a user etc.
+    Where will it fit? Roles or Profiles? Or both? Or custom modules?
