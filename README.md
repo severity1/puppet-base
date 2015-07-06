@@ -14,4 +14,4 @@ A better way to manage changes in puppet.
     example:
         - `roles/webdemo.yaml` uses `profile::webserver`.
         - `roles/webdemo.yaml` uses `profile::php`.
-        - you can add `webdemo` specific configs to `roles/webdemo.yaml`
+        - you can add `webdemo` specific configs to `roles/webdemo.yaml`.
