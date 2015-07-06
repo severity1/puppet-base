@@ -15,3 +15,7 @@ A better way to manage changes in puppet.
         - `roles/webdemo.yaml` uses `profile::webserver`.
         - `roles/webdemo.yaml` uses `profile::php`.
         - you can add `webdemo` specific configs to `roles/webdemo.yaml`.
+
+## To Dos
+1. Simulate various scenarios.
+2. Often times we use puppet native resource types especially when we want to add a file, add a user etc. Where will it fit? Roles or Profiles? Or both? Or custom modules?
